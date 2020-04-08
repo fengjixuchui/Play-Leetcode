@@ -98,7 +98,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [无] | [C++](0050-Pow-x-n/cpp-0050/) | | |
 | 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [缺：N皇后问题整理] | [C++](0051-N-Queens/cpp-0051/) | [Java](0051-N-Queens/java-0051/src/) | |
 | 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](https://leetcode.com/problems/n-queens-ii/solution/)<br/>[缺：N皇后问题整理] | [C++](0052-N-Queens-II/cpp-0052/) | | |
-| | | | | | |
+| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](https://leetcode.com/problems/maximum-subarray/solution/) | [C++](0053-Maximum-Subarray/cpp-0053/) | | |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [solution](https://leetcode.com/problems/spiral-matrix/solution/) | [C++](0054-Spiral-Matrix/cpp-0054/) | | |
 | | | | | | |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [solution](https://leetcode.com/problems/merge-intervals/solution/) | [C++](0056-Merge-Intervals/cpp-0056/) | | |
@@ -165,7 +165,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [无] | [C++](0119-Pascals-Triangle-II/cpp-0119/) | | |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/) | [无] | [C++](0120-Triangle/cpp-0120/) | | |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/) | | [C++](0121-Best-Time-to-Buy-and-Sell-Stock/cpp-0121/) | | |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | | |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/) | [C++](0122-Best-Time-to-Buy-and-Sell-Stock-II/cpp-0122/) | | |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | | [C++](0123-Best-Time-to-Buy-and-Sell-Stock-III/cpp-0123/) | | |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [solution](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](0124-Binary-Tree-Maximum-Path-Sum/cpp-0124/) | | |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [无] | [C++](0125-Valid-Palindrome/cpp-0125/) | | |
@@ -221,7 +221,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [solution](https://leetcode.com/problems/binary-tree-right-side-view/solution/) | [C++](199-Binary-Tree-Right-Side-View/cpp-0199/) | | |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [solution](https://leetcode.com/problems/number-of-islands/solution/) | [C++](0200-Number-of-Islands/cpp-0200/) | [Java](0200-Number-of-Islands/java-0200/src/) | |
 | | | | | | |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [无] | [C++](0202-Happy-Number/cpp-0202/) | | |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [solution](https://leetcode.com/problems/happy-number/solution/) | [C++](0202-Happy-Number/cpp-0202/) | | |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [无] | [C++](0203-Remove-Linked-List-Elements/cpp-0203/) | [Java](0203-Remove-Linked-List-Elements/java-0203/src/) | |
 | | | | | | |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [无] | [C++](0205-Isomorphic-Strings/cpp-0205/) | | |
@@ -412,6 +412,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [无] | [C++](0509-Fibonacci-Number/cpp-0509/) | | |
 | | | | | | |
+| 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [solution](https://leetcode.com/problems/super-washing-machines/solution/) | [C++](0517-Super-Washing-Machines/cpp-0517/) | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0518-Coin-Change-2/cpp-0518/) | | |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | [solution](https://leetcode.com/problems/random-flip-matrix/solution/) | [C++](0519-Random-Flip-Matrix/cpp-0519/) | | |
 | | | | | | |
@@ -972,4 +973,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1393 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [无] | [C++](1394-Find-Lucky-Integer-in-an-Array/cpp-1394/) | | |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [无]<br/>[缺：线段树] | [C++](1395-Count-Number-of-Teams/cpp-1395/) | | |
+| | | | | | |
+| 1398 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [无] | [C++](1399-Count-Largest-Group/cpp-1399/) | | |
+| 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [无] | [C++](1400-Construct-K-Palindrome-Strings/cpp-1400/) | | |
+| | | | | | |
+| 1403 | [Minimum Subsequence in Non Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [无] | [C++](1403-Minimum-Subsequence-in-Non-Increasing-Order/cpp-1403/) | | |
 | | | | | | |
