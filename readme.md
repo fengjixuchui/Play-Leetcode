@@ -978,9 +978,35 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1398 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [无] | [C++](1399-Count-Largest-Group/cpp-1399/) | | |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [无] | [C++](1400-Construct-K-Palindrome-Strings/cpp-1400/) | | |
-| | | | | | |
+| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [无] | [C++](1401-Circle-and-Rectangle-Overlapping/cpp-1401/) | | |
+| 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [无] | [C++](1402-Reducing-Dishes/cpp-1402/) | | |
 | 1403 | [Minimum Subsequence in Non Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [无] | [C++](1403-Minimum-Subsequence-in-Non-Increasing-Order/cpp-1403/) | | |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [无] | [C++](1404-Number-of-Steps-to-Reduce-a-Number-in-Binary-Representation-to-One/cpp-1404/) | | |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [无] | [C++](1405-Longest-Happy-String/cpp-1405/) | | |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [无] | [C++](1406-Stone-Game-III/cpp-1406/) | | |
+| 1407 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [无] | [C++](1408-String-Matching-in-an-Array/cpp-1408/) | | |
+| 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [无]<br/>[缺：BIT] | [C++](1409-Queries-on-a-Permutation-With-Key/cpp-1409/) | | |
+| 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | [无] | [C++](1410-HTML-Entity-Parser/cpp-1410/) | | |
+| 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [无] | [C++](1411-Number-of-Ways-to-Paint-N×3-Grid/cpp-1411/) | | |
+| 1412 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [无] | [C++](1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum/cpp-1413/) | | |
+| 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [无] | [C++](1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K/cpp-1414/) | | |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [无] | [C++](1415-The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n/cpp-1415/) | | |
+| 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | [无] | [C++](1416-Restore-The-Array/cpp-1416/) | | |
+| 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [无] | [C++](1317-Reformat-The-String/cpp-1417/) | | |
+| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [无] | [C++](1418-Display-Table-of-Food-Orders-in-a-Restaurant/cpp-1418/) | | |
+| 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [无] | [C++](1419-Minimum-Number-of-Frogs-Croaking/cpp-1419/) | | |
+| 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [无] | [C++](1420-Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons/cpp-1420/) | | |
 | | | | | | |
+
+## 力扣中文站比赛
+
+| ID | Problem | Official<br/>Solution | C++ | Java | Python |
+| --- | --- | :---: | :---: | :---: | :---: |
+| | | | | | |
+| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [无] | [C++](LCP06-na-ying-bi/cpp-LCP06/) |
+| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [无] | [C++](LCP07-chuan-di-xin-xi/cpp-LCP07/) | | |
+| LCP08 | [剧情触发时间](LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | [无] | [C++](LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | | |
+| | | | | | |
+
