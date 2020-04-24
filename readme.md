@@ -521,6 +521,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [solution](https://leetcode.com/problems/open-the-lock/solution/) | [C++](0752-Open-the-Lock/cpp-0752/) | | |
 | | | | | | |
+| 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [Solution](https://leetcode.com/problems/reach-a-number/solution/) | [C++](0754-Reach-a-Number/cpp-0754/) | | |
+| | | | | | |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | [solution](https://leetcode.com/problems/couples-holding-hands/solution/) | [C++](0765-Couples-Holding-Hands/cpp-0765/) | | |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](https://leetcode.com/problems/toeplitz-matrix/solution/) | [C++](0766-Toeplitz-Matrix/cpp-0766/) | | |
 | | | | | | |
@@ -1005,9 +1007,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
 | | | | | | |
+| LCP04 | [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/) | [无] | [c++](LCP04-broken-board-dominoes/cpp-LCP04/) | | |
+| LCP05 | [发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus/) | [无] | [C++](LCP05-coin-bonus/cpp-LCP05/) | | |
 | LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [无] | [C++](LCP06-na-ying-bi/cpp-LCP06/) |
 | LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [无] | [C++](LCP07-chuan-di-xin-xi/cpp-LCP07/) | | |
 | LCP08 | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [无] | [C++](LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | | |
 | LCP09 | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [无] | [C++](LCP09-zui-xiao-tiao-yue-ci-shu/cpp-LCP09/) | | |
-| | | | | | |
+| LCP10 | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/) | [无] | [C++](LCP10-er-cha-shu-ren-wu-diao-du/cpp-LCP10/) | | |
 
