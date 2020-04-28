@@ -452,6 +452,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [solution](https://leetcode.com/problems/find-duplicate-subtrees/solution/) | [C++](0652-Find-Duplicate-Subtrees/cpp-0652/) | | |
 | | | | | | |
+| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [solution](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](0668-Kth-Smallest-Number-in-Multiplication-Table/cpp-0668/) | | |
+| | | | | | |
 | 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | [solution](https://leetcode.com/problems/bulb-switcher-ii/solution/) | [C++](0672-Bulb-Switcher-II/cpp-0672/) | | |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | [缺：BIT；线段树] | [C++](0673-Number-of-Longest-Increasing-Subsequence/cpp-0673/) | | |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | | [C++](0674-Longest-Continuous-Increasing-Subsequence/cpp-0674/) | | |
@@ -523,11 +525,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [Solution](https://leetcode.com/problems/reach-a-number/solution/) | [C++](0754-Reach-a-Number/cpp-0754/) | | |
 | | | | | | |
+| 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [solution](https://leetcode.com/problems/special-binary-string/solution/) |  [C++](0761-Special-Binary-String/cpp-0761/) | | |
+| | | | | | |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | [solution](https://leetcode.com/problems/couples-holding-hands/solution/) | [C++](0765-Couples-Holding-Hands/cpp-0765/) | | |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](https://leetcode.com/problems/toeplitz-matrix/solution/) | [C++](0766-Toeplitz-Matrix/cpp-0766/) | | |
 | | | | | | |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [solution](https://leetcode.com/problems/jewels-and-stones/solution/) | [C++](0771-Jewels-and-Stones/cpp-0771/) | | |
 | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | [无] | [C++](0772-Basic-Calculator-III/cpp-0772/) | | |
+| | | | | | |
+| 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [solution](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [C++](0774-Minimize-Max-Distance-to-Gas-Station/cpp-0774/) | | |
 | | | | | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [solution](https://leetcode.com/problems/reaching-points/solution/) | [C++](0780-Reaching-Points/cpp-0780/) | | |
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0781-Rabbits-in-Forest/cpp-0781/) | | |
@@ -1000,6 +1006,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [无] | [C++](1418-Display-Table-of-Food-Orders-in-a-Restaurant/cpp-1418/) | | |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [无] | [C++](1419-Minimum-Number-of-Frogs-Croaking/cpp-1419/) | | |
 | 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [无] | [C++](1420-Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons/cpp-1420/) | | |
+| 1421 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [无] | [C++](1422-Maximum-Score-After-Splitting-a-String/cpp-1422/) | | |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [无] | [C++](1423-Maximum-Points-You-Can-Obtain-from-Cards/cpp-1423/) | | |
+| 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [无] | [C++](1424-Diagonal-Traverse-II/cpp-1424/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
