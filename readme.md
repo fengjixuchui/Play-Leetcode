@@ -437,6 +437,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [solution](https://leetcode.com/problems/binary-tree-tilt/solution/) | [C++](0563-Binary-Tree-Tilt/cpp-0563/) | | |
 | | | | | | |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [solution](https://leetcode.com/problems/permutation-in-string/solution/) [题解](https://leetcode-cn.com/problems/permutation-in-string/solution/zi-fu-chuan-de-pai-lie-by-leetcode/) | [C++](0567-Permutation-in-String/cpp-0567/) | | |
+| | | | | | |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [solution](https://leetcode.com/problems/subtree-of-another-tree/solution/) | [C++](0572-Subtree-of-Another-Tree/cpp-0572/) | | |
 | | | | | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
@@ -1057,6 +1059,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [无] | [C++](1451-Rearrange-Words-in-a-Sentence/cpp-1451/) | | |
 | 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [无] | [C++](1452-People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List/cpp-1452/) | | |
 | 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | [无]<br/>[缺：[Angular Sweep](https://www.geeksforgeeks.org/angular-sweep-maximum-points-can-enclosed-circle-given-radius/)] | [C++](1453-Maximum-Number-of-Darts-Inside-of-a-Circular-Dartboard/cpp-1453/) | | |
+| 1454 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [无] | [C++](1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/cpp-1455/) | | |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [无] | [C++](1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/cpp-1456/) | | |
+| 1457 | [Pseudo Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [无] | [C++](1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
