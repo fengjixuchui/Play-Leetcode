@@ -300,7 +300,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [缺：BIT] | [C++](0307-Range-Sum-Query-Mutable/cpp-0307/) | | |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | [C++](0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | | |
-| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/) | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
 | | | | | | |
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [solution](https://leetcode.com/problems/burst-balloons/solution/) [题解](https://leetcode-cn.com/problems/burst-balloons/solution/chuo-qi-qiu-by-leetcode/) | [C++](0312-Burst-Balloons/cpp-0312/) | | |
 | | | | | | |
@@ -401,6 +401,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | [solution](https://leetcode.com/problems/matchsticks-to-square/solution/) | [C++](0473-Matchsticks-to-Square/cpp-0473/) | | |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [solution](https://leetcode.com/problems/ones-and-zeroes/solution/) | [C++](0474-Ones-and-Zeroes/cpp-0474/) | | |
 | | | | | | |
+| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [solution](https://leetcode.com/problems/total-hamming-distance/solution/) [题解](https://leetcode-cn.com/problems/total-hamming-distance/solution/yi-ming-ju-chi-zong-he-by-leetcode/) | [C++](477-Total-Hamming-Distance/cpp-477/) | | |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | [solution](https://leetcode.com/problems/generate-random-point-in-a-circle/solution/) | [C++](0478-Generate-Random-Point-in-a-Circle/cpp-0478/) | | |
 | | | | | | |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [无]<br/>[缺：双数据结构] | [C++](0480-Sliding-Window-Median/cpp-0480/) | | |
@@ -421,6 +422,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [solution](https://leetcode.com/problems/super-washing-machines/solution/) | [C++](0517-Super-Washing-Machines/cpp-0517/) | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0518-Coin-Change-2/cpp-0518/) | | |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | [solution](https://leetcode.com/problems/random-flip-matrix/solution/) | [C++](0519-Random-Flip-Matrix/cpp-0519/) | | |
+| | | | | | |
+| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [solution](https://leetcode.com/problems/contiguous-array/solution/) [题解](https://leetcode-cn.com/problems/contiguous-array/solution/lian-xu-shu-zu-by-leetcode/) | [C++](0525-Contiguous-Array/cpp-0525/) | | |
 | | | | | | |
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [solution](https://leetcode.com/problems/random-pick-with-weight/solution/) | [C++](0528-Random-Pick-with-Weight/cpp-0528/) | | |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [无] | [C++](0529-Minesweeper/cpp-0529/) | | |
@@ -1063,6 +1066,22 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [无] | [C++](1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/cpp-1455/) | | |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [无] | [C++](1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/cpp-1456/) | | |
 | 1457 | [Pseudo Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [无] | [C++](1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree/) | | |
+| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [无] | [C++](1458-Max-Dot-Product-of-Two-Subsequences/cpp-1458/) | | |
+| 1459 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [无] | [C++](1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays/cpp-1460/) | | |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [无] | [C++](1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K/cpp-1461/) | | |
+| 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | [无] | [C++](1462-Course-Schedule-IV/cpp-1462/) | | |
+| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [无] | [C++](1463-Cherry-Pickup-II/cpp-1463/) | | |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [无] | [C++](1464-Maximum-Product-of-Two-Elements-in-an-Array/cpp-1464/) | | |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [无] | [C++](1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts/cpp-1465/) | | |
+| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [无] | [C++](1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/cpp-1466/) | | |
+| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | [无] | [C++](1467-Probability-of-a-Two-Boxes-Having-The-Same-Number-of-Distinct-Balls/cpp-1467/) | | |
+| 1468 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1469 | [Find All the Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [无] | [C++](1469-Find-All-the-Lonely-Nodes/cpp-1469/) | | |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [无] | [C++](1470-Shuffle-the-Array/cpp-1470/) | | |
+| 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [无] | [C++](1471-The-k-Strongest-Values-in-an-Array/cpp-1471/) | | |
+| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [无] | [C++](1472-Design-Browser-History/cpp-1472/) | | |
+| 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [无] | [C++](1473-Paint-House-III/cpp-1473/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
