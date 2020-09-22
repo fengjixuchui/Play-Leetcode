@@ -938,6 +938,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [无] | [C++](1304-Find-N-Unique-Integers-Sum-up-to-Zero/cpp-1304/) | | |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [无] | [C++](1305-All-Elements-in-Two-Binary-Search-Trees/cpp-1305/) | | |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [无] | [C++](1306-Jump-Game-III/cpp-1306/) | | |
+| 1307 | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [无] | [C++](1307-Verbal-Arithmetic-Puzzle/cpp-1307/) | | |
 | | | | | | |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [无] | [C++](1309-Decrypt-String-from-Alphabet-to-Integer-Mapping/cpp-1309/) | | |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [无] | [C++](1310-XOR-Queries-of-a-Subarray/cpp-1310/) | | |
@@ -998,6 +999,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [无] | [C++](1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree/cpp-1379/) | | |
 | | | | | | |
 | 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [无] | [C++](1383-Maximum-Performance-of-a-Team/cpp-1383/) | | |
+| 1384 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [无] | [C++](1389-Create-Target-Array-in-the-Given-Order/cpp-1389/) | | |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [无] | [C++](1390-Four-Divisors/cpp-1390/) | | |
@@ -1084,7 +1086,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [无] | [C++](1471-The-k-Strongest-Values-in-an-Array/cpp-1471/) | | |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [无] | [C++](1472-Design-Browser-History/cpp-1472/) | | |
 | 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [无] | [C++](1473-Paint-House-III/cpp-1473/) | | |
-| | | | | | |
+| 1474 | [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | [无] | [C++](1474-Delete-N-Nodes-After-M-Nodes-of-a-Linked-List/cpp-1474/) | | |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [无] | [C++](1475-Final-Prices-With-a-Special-Discount-in-a-Shop/cpp-1475/) | | |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [无] | [C++](1476-Subrectangle-Queries/cpp-1476/) | | |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [无] | [C++](1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/cpp-1477/) | | |
@@ -1094,6 +1096,32 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [无] | [C++](1481-Least-Number-of-Unique-Integers-after-K-Removals/cpp-1481/) | | |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [无] | [C++](1482-Minimum-Number-of-Days-to-Make-m-Bouquets/cpp-1482/) | | |
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [无] | [C++](1483-Kth-Ancestor-of-a-Tree-Node/cpp-1483/) | | |
+| 1484 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [无] | [C++](1485-Clone-Binary-Tree-With-Random-Pointer/cpp-1485/) | | |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [无] | [C++](1486-XOR-Operation-in-an-Array/cpp-1486/) | | |
+| 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [无] | [C++](1487-Making-File-Names-Unique/cpp-1487/) | | |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [无] | [C++](1488-Avoid-Flood-in-The-City/cpp-1488/) | | |
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [无]<br/>[缺：O(ElogE) 的解] | [C++](1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | | |
+| 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/) | [无] | [C++](1490-Clone-N-ary-Tree/cpp-1490/) | | |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [无] | [C++](1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary/cpp-1491/) | | |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [无] | [C++](1492-The-kth-Factor-of-n/cpp-1492/) | | |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [无] | [C++](1493-Longest-Subarray-of-1's-After-Deleting-One-Element/cpp-1493/) | | |
+| | | | | | |
+| 1495 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [无] | [C++](1496-Path-Crossing/cpp-1496/) | | |
+| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [无] | [C++](1497-Check-If-Array-Pairs-Are-Divisible-by-k/cpp-1497/) | | |
+| 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [无] | [C++](1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/cpp-1498/) | | |
+| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [无] | [C++](1499-Max-Value-of-Equation/cpp-1499/) | | |
+| | | | | | |
+| 1587 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [无] | [C++](1588-Sum-of-All-Odd-Length-Subarrays/cpp-1588/) | | |
+| 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [无] | [C++](1589-Maximum-Sum-Obtained-of-Any-Permutation/cpp-1589/) | | |
+| 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [无] | [C++](1590-Make-Sum-Divisible-by-P/cpp-1590/) | | |
+| 1591 | [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/) | [无] | [C++](1591-Strange-Printer-II/cpp-1591/) | | |
+| 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [无] | [C++](1592-Rearrange-Spaces-Between-Words/cpp-1592/) | | |
+| 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [无] | [C++](1593-Split-a-String-Into-the-Max-Number-of-Unique-Substrings/cpp-1593/) | | |
+| 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [无] | [C++](1594-Maximum-Non-Negative-Product-in-a-Matrix/cpp-1594/) | | |
+| 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [无] | [C++](1595-Minimum-Cost-to-Connect-Two-Groups-of-Points/cpp-1595/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
@@ -1116,3 +1144,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP14 | [切分数组](https://leetcode-cn.com/problems/qie-fen-shu-zu/) | [题解](https://leetcode-cn.com/problems/qie-fen-shu-zu/solution/qie-fen-shu-zu-zhi-shu-shai-dp-by-leetcode-solutio/) | [C++](LCP14-qie-fen-shu-zu/cpp-LCP14/) | | |
 | LCP15 | [游乐园的迷宫](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/solution/you-le-yuan-de-mi-gong-tan-xin-si-lu-by-leetcode-s/) | [C++](LCP15-you-le-yuan-de-mi-gong/cpp-LCP15/) | | |
 | LCP16 | [游乐园的游览计划](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/solution/you-le-yuan-de-you-lan-ji-hua-tu-lun-jie-xi-by-l-2/) | [C++](LCP16-you-le-yuan-de-you-lan-ji-hua/cpp-LCP16/) | | |
+| | | | | | |
+| LCP22 | [黑白方格画](https://leetcode-cn.com/problems/ccw6C7/) | [无] | [C++](LCP22/cpp-LCP22/) | | |
+| LCP23 | [魔术排列](https://leetcode-cn.com/problems/er94lq/) | [无] | [C++](LCP23/cpp-LCP23/) | | |
+| LCP24 | [数字游戏](https://leetcode-cn.com/problems/5TxKeK/) | [无] | [C++](LCP24/cpp-LCP24/) | | |
+| LCP25 | [古董键盘](https://leetcode-cn.com/problems/Uh984O/) | [无] | [C++](LCP25/cpp-LCP25/) | | |
+| | | | | | |
