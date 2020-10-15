@@ -125,7 +125,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [无] | [C++](0079-Word-Search/cpp-0079/) | [Java](0079-Word-Search/java-0079/src/) | |
 | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [无] | [C++](0080-Remove-Duplicates-from-Sorted-Array-II/cpp-0080/) | | |
-| | | | | | |
+| 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/solution/) | [C++](0081-Search-in-Rotated-Sorted-Array-II/cpp-0081/) | | |
 | 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [无] | [C++](0082-Remove-Duplicates-from-Sorted-List-II/cpp-0082/) | | |
 | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [无] | [C++](0083-Remove-Duplicates-from-Sorted-List/cpp-0083/) | | |
 | 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/) [题解](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/solution/zhu-zhuang-tu-zhong-zui-da-de-ju-xing-by-leetcode/) | [C++](0084-Largest-Rectangle-in-Histogram/cpp-0084/) | | |
@@ -1122,6 +1122,23 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [无] | [C++](1593-Split-a-String-Into-the-Max-Number-of-Unique-Substrings/cpp-1593/) | | |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [无] | [C++](1594-Maximum-Non-Negative-Product-in-a-Matrix/cpp-1594/) | | |
 | 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [无] | [C++](1595-Minimum-Cost-to-Connect-Two-Groups-of-Points/cpp-1595/) | | |
+| 1596 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [无] | [C++](1598-Crawler-Log-Folder/cpp-1598/) | | |
+| 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [无] | [C++](1599-Maximum-Profit-of-Operating-a-Centennial-Wheel/cpp-1599/) | | |
+| 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [无] | [C++](1600-Throne-Inheritance/cpp-1600/) | | |
+| 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [无]<br/>[缺：网络流解法] | [C++](1601-Maximum-Number-of-Achievable-Transfer-Requests/cpp-1601/) | | |
+| | | | | | |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [无] | [C++](1603-Design-Parking-System/cpp-1603/) | | |
+| | | | | | |
+| 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [无] | [C++](1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X/cpp-1608/) | | |
+| 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [无] | [C++](1609-Even-Odd-Tree/cpp-1609/) | | |
+| 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [无] | [C++](1610-Maximum-Number-of-Visible-Points/cpp-1610/) | | |
+| 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [无] | [C++](1611-Minimum-One-Bit-Operations-to-Make-Integers-Zero/cpp-1611/) | | |
+| | | | | | |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [无] | [C++](1614-Maximum-Nesting-Depth-of-the-Parentheses/cpp-1614/) | | |
+| 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [无] | [C++](1615-Maximal-Network-Rank/cpp-1615/) | | |
+| 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [无] | [C++](1616-Split-Two-Strings-to-Make-Palindrome/cpp-1616/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
