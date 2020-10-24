@@ -428,6 +428,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [solution](https://leetcode.com/problems/random-pick-with-weight/solution/) | [C++](0528-Random-Pick-with-Weight/cpp-0528/) | | |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [无] | [C++](0529-Minesweeper/cpp-0529/) | | |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [无] | | [Java](0530-Minimum-Absolute-Difference-in-BST/java-0530/src/) | |
+| 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | [无] | [C++](0531-Lonely-Pixel-I/cpp-0531/) | | |
+| | | | | | |
+| 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | [无] | [C++](0533-Lonely-Pixel-II/cpp-0533/) | | |
 | | | | | | |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [solution](https://leetcode.com/problems/reverse-string-ii/solution/) | [C++](0541-Reverse-String-II/cpp-0541/) | | |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | [C++](0542-01-Matrix/cpp-0542/) | | |
@@ -465,6 +468,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0648-Replace-Words/cpp-0648/) | | |
 | | | | | | |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [solution](https://leetcode.com/problems/find-duplicate-subtrees/solution/) | [C++](0652-Find-Duplicate-Subtrees/cpp-0652/) | | |
+| | | | | | |
+| 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0664-Strange-Printer/cpp-0664/) | | |
 | | | | | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [solution](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](0668-Kth-Smallest-Number-in-Multiplication-Table/cpp-0668/) | | |
 | | | | | | |
@@ -692,7 +697,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 953 | [isAlienSorted](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [solution](https://leetcode.com/problems/verifying-an-alien-dictionary/solution/) | [C++](0953-isAlienSorted/cpp-0953/) | | |
 | 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [solution](https://leetcode.com/problems/array-of-doubled-pairs/solution/) | [C++](0954-Array-of-Doubled-Pairs/cpp-0954/) | | |
 | 955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/solution/) | [C++](0955-Delete-Columns-to-Make-Sorted-II/cpp-0955/) | | |
-| | | | | | |
+| 956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [solution](https://leetcode.com/problems/tallest-billboard/solution/) | [C++](0956-Tallest-Billboard/cpp-0956/) | | |
 | 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [solution](https://leetcode.com/problems/prison-cells-after-n-days/solution/) | [C++](0957-Prison-Cells-After-N-Days/cpp-0957/) | | |
 | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [solution](https://leetcode.com/problems/check-completeness-of-a-binary-tree/solution/) | [C++](0958-Check-Completeness-of-a-Binary-Tree/cpp-0958/) | | |
 | 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [solution](https://leetcode.com/problems/regions-cut-by-slashes/solution/) | [C++](0959-Regions-Cut-By-Slashes/cpp-0959/) | | |
@@ -992,7 +997,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [无] | [C++](1370-Increasing-Decreasing-String/cpp-1370/) | | |
 | 1371 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [无] | [C++](1371-Find-the-Longest-Substring-Containing-Vowels-in-Even-Counts/cpp-1371/) | | |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [题解](https://leetcode-cn.com/problems/longest-zigzag-path-in-a-binary-tree/solution/er-cha-shu-zhong-de-zui-chang-jiao-cuo-lu-jing-b-2/)<br/>[缺：dp，返回值DFS] | [C++](1372-Longest-ZigZag-Path-in-a-Binary-Tree/cpp-1372/) | | |
-| | | | | | |
+| 1373 | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) |  [无] | [C++](1373-Maximum-Sum-BST-in-Binary-Tree/cpp-1373/) | | |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [无] | [C++](1374-Generate-a-String-With-Characters-That-Have-Odd-Counts/cpp-1374/) | | |
 | 1375 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/) | [无] | [C++](1375-Bulb-Switcher-III/cpp-1375/) | | |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [无] | [C++](1376-Time-Needed-to-Inform-All-Employees/cpp-1376/) | | |
@@ -1108,7 +1113,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [无] | [C++](1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary/cpp-1491/) | | |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [无] | [C++](1492-The-kth-Factor-of-n/cpp-1492/) | | |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [无] | [C++](1493-Longest-Subarray-of-1's-After-Deleting-One-Element/cpp-1493/) | | |
-| | | | | | |
+| 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | [无] | [C++](1494-Parallel-Courses-II/cpp-1494/) | | |
 | 1495 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [无] | [C++](1496-Path-Crossing/cpp-1496/) | | |
 | 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [无] | [C++](1497-Check-If-Array-Pairs-Are-Divisible-by-k/cpp-1497/) | | |
@@ -1117,6 +1122,19 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
 | | | | | | |
+| 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
+| | | | | | |
+| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [无] | [C++](1576-Replace-All-Question-Marks-to-Avoid-Consecutive-Repeating-Characters/cpp-1576/) | | |
+| 1577 | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [无] | [C++](1576-Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers/cpp-1577/) | | |
+| 1578 | [Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [无] | [C++](1578-Minimum-Deletion-Cost-to-Avoid-Repeating-Letters/cpp-1578/) | | |
+| 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [无] | [C++](1579-Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable/cpp-1579/) | | |
+| 1580 | [Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/) | [无] | [C++](1580-Put-Boxes-Into-the-Warehouse-II/cpp-1580/) | | |
+| 1581 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [无] | [C++](1582-Special-Positions-in-a-Binary-Matrix/cpp-1582/) | | |
+| 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | [无] | [C++](1583-Count-Unhappy-Friends/cpp-1583/) | | |
+| 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [无]<br/>[缺：prim 和 ] | [C++](1584-Min-Cost-to-Connect-All-Points/cpp-1584/) | | |
+| 1585 | [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [无] | [C++](1585-Check-If-String-Is-Transformable-With-Substring-Sort-Operations/cpp-1585/) | | |
+| 1586 | [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) | [无]<br/>[缺：用栈模拟] | [C++](1586-Binary-Search-Tree-Iterator-II/cpp-1586/) | | |
 | 1587 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [无] | [C++](1588-Sum-of-All-Odd-Length-Subarrays/cpp-1588/) | | |
 | 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [无] | [C++](1589-Maximum-Sum-Obtained-of-Any-Permutation/cpp-1589/) | | |
@@ -1127,16 +1145,16 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [无] | [C++](1594-Maximum-Non-Negative-Product-in-a-Matrix/cpp-1594/) | | |
 | 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [无] | [C++](1595-Minimum-Cost-to-Connect-Two-Groups-of-Points/cpp-1595/) | | |
 | 1596 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 1597 | [Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/) | [无] | [C++](1597-Build-Binary-Expression-Tree-From-Infix-Expression/cpp-1597/) | | |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [无] | [C++](1598-Crawler-Log-Folder/cpp-1598/) | | |
 | 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [无] | [C++](1599-Maximum-Profit-of-Operating-a-Centennial-Wheel/cpp-1599/) | | |
 | 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [无] | [C++](1600-Throne-Inheritance/cpp-1600/) | | |
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [无]<br/>[缺：网络流解法] | [C++](1601-Maximum-Number-of-Achievable-Transfer-Requests/cpp-1601/) | | |
-| | | | | | |
+| 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [solution](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/solution/) | [C++](1602-Find-Nearest-Right-Node-in-Binary-Tree/cpp-1602/) | | |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [无] | [C++](1603-Design-Parking-System/cpp-1603/) | | |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [无] | [C++](1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period/cpp-1604/) | | |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [无] | [C++](1605-Find-Valid-Matrix-Given-Row-and-Column-Sums/cpp-1605/) | | |
-| | | | | | |
+| 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [无] | [C++](1606-Find-Servers-That-Handled-Most-Number-of-Requests/cpp-1606/) | | |
 | 1607 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [无] | [C++](1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X/cpp-1608/) | | |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [无] | [C++](1609-Even-Odd-Tree/cpp-1609/) | | |
@@ -1149,6 +1167,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [无] | [C++](1616-Split-Two-Strings-to-Make-Palindrome/cpp-1616/) | | |
 | 1617 | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [无] | [C++](1617-Count-Subtrees-With-Max-Distance-Between-Cities/cpp-1617/) | | |
 | 1618 | [Maximum Font to Fit a Sentence in a Screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/) | [无] | [C++](1618-Maximum-Font-to-Fit-a-Sentence-in-a-Screen/cpp-1618/) | | |
+| 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [无] | [C++](1619-Mean-of-Array-After-Removing-Some-Elements/cpp-1619/) | | |
+| 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | [无] | [C++](1620-Coordinate-With-Maximum-Network-Quality/cpp-1620/) | | |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [无] | [C++](1621-Number-of-Sets-of-K-Non-Overlapping-Line-Segments/cpp-1621/) | | |
+| 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [无] | [C++](1622-Fancy-Sequence/cpp-1622/) | | |
+| 1623 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [无] | [C++](1624-Largest-Substring-Between-Two-Equal-Characters/cpp-1624/) | | |
+| 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [无] | [C++](1625-Lexicographically-Smallest-String-After-Applying-Operations/cpp-1625/) | | |
+| 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [无]<br/>[缺：nlogn 算法] | [C++](1626-Best-Team-With-No-Conflicts/cpp-1626/) | | |
+| 1627 | [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [无] | [C++](1627-Graph-Connectivity-With-Threshold/cpp-1627/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
