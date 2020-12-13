@@ -203,6 +203,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [solution](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/) | [C++](0160-Intersection-of-Two-Linked-Lists/cpp-0160/) | | |
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [solution](https://leetcode.com/problems/one-edit-distance/solution/) | [C++](0161-One-Edit-Distance/cpp-0161/) | | |
 | | | | | | |
+| 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [solution](https://leetcode.com/problems/missing-ranges/solution/) | [C++](0163-Missing-Ranges/cpp-0163/) | | |
+| | | | | | |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solution/) | [C++](0167-Two-Sum-II-Input-array-is-sorted/cpp-0167/) | [Java](0167-Two-Sum-II-Input-array-is-sorted/java-0167/src/) | |
 | | | | | | |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [solution](https://leetcode.com/problems/majority-element/solution/) | [C++](0169-Majority-Element/cpp-0169/) | | [Python](0169-Majority-Element/py-0169/) |
@@ -336,6 +338,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [无] | [C++](0373-Find-K-Pairs-with-Smallest-Sums/cpp-0373/) | | |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [solution](https://leetcode.com/problems/guess-number-higher-or-lower/solution/) | [C++](0374-Guess-Number-Higher-or-Lower/cpp-0374/) | | |
 | | | | | | |
+| 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [solution](https://leetcode.com/problems/wiggle-subsequence/solution/) | [C++](0376-Wiggle-Subsequence/cpp-0376/)<br/>[缺：DP；O(1) 空间贪心] | | |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | [无] | [C++](0377-Combination-Sum-IV/cpp-0377/) | | |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [无] | [C++](0378-Kth-Smallest-Element-in-a-Sorted-Matrix/cpp-0378/) | | |
 | | | | | | |
@@ -421,6 +424,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [无] | [C++](0509-Fibonacci-Number/cpp-0509/) | | |
 | | | | | | |
+| 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [无] | [C++](0516-Longest-Palindromic-Subsequence/cpp-0516/) | | |
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [solution](https://leetcode.com/problems/super-washing-machines/solution/) | [C++](0517-Super-Washing-Machines/cpp-0517/) | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0518-Coin-Change-2/cpp-0518/) | | |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | [solution](https://leetcode.com/problems/random-flip-matrix/solution/) | [C++](0519-Random-Flip-Matrix/cpp-0519/) | | |
@@ -461,6 +465,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | [solution](https://leetcode.com/problems/minimum-index-sum-of-two-lists/solution/) | [C++](0599-Minimum-Index-Sum-of-Two-Lists/cpp-0599/) | | |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | [solution](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/solution/)<br/>[缺：Bit Manipulation]| [C++](0600-Non-negative-Integers-without-Consecutive-Ones/cpp-0600/) | | |
 | | | | | | |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [solution](https://leetcode.com/problems/can-place-flowers/solution/) | [C++](0605-Can-Place-Flowers/cpp-0605/) | | |
+| | | | | | |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [solution](https://leetcode.com/problems/task-scheduler/solution/) | [C++](0621-Task-Scheduler/cpp-0621/) | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [无] | [C++](0622-Design-Circular-Queue/cpp-0622/) | | |
 | | | | | | |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [solution](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/solution/) | [C++](0632-Smallest-Range-Covering-Elements-from-K-Lists/cpp-0632/) | | |
@@ -470,8 +477,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [无] | [C++](0642-Design-Search-Autocomplete-System/cpp-0642/) | | |
 | | | | | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0648-Replace-Words/cpp-0648/) | | |
+| 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [solution](https://leetcode.com/problems/dota2-senate/solution/)<br/>[缺：队列] | [C++](0649-Dota2-Senate/cpp-0649/) | | |
 | | | | | | |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [solution](https://leetcode.com/problems/find-duplicate-subtrees/solution/) | [C++](0652-Find-Duplicate-Subtrees/cpp-0652/) | | |
+| | | | | | |
+| 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [solution](https://leetcode.com/problems/split-array-into-consecutive-subsequences/solution/) | [C++](0659-Split-Array-into-Consecutive-Subsequences/cpp-0659/) | | |
 | | | | | | |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0664-Strange-Printer/cpp-0664/) | | |
 | | | | | | |
@@ -596,6 +606,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [无] | [C++](0827-Making-A-Large-Island/cpp-0827/) | | |
 | | | | | | |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [solution](https://leetcode.com/problems/keys-and-rooms/solution/) | [C++](0841-Keys-and-Rooms/cpp-0841/) | | |
+| 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [solution](https://leetcode.com/problems/split-array-into-fibonacci-sequence/solution/) | [C++](0842-Split-Array-into-Fibonacci-Sequence/cpp-0842/) | | |
 | | | | | | |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [solution](https://leetcode.com/problems/peak-index-in-a-mountain-array/solution/) | [C++](0852-Peak-Index-in-a-Mountain-Array/cpp-0852/) | | |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [solution](https://leetcode.com/problems/car-fleet/solution/) | [C++](0853-Car-Fleet/cpp-0853/) | | |
@@ -1229,6 +1240,20 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [solution](https://leetcode.com/problems/find-the-most-competitive-subsequence/solution/) | [C++](1673-Find-the-Most-Competitive-Subsequence/cpp-1673/) | | |
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [无] | [C++](1674-Minimum-Moves-to-Make-Array-Complementary/cpp-1674/) | | |
 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | [solution](https://leetcode.com/problems/minimize-deviation-in-array/) | [C++](1675-Minimize-Deviation-in-Array/cpp-1675/) | | |
+| 1676 | [Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | [无] | [C++](1676-Lowest-Common-Ancestor-of-a-Binary-Tree-IV/cpp-1676/) | | |
+| 1677 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [无] | [C++](1678-Goal-Parser-Interpretation/cpp-1678/) | | |
+| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [solution](https://leetcode.com/problems/max-number-of-k-sum-pairs/solution/) | [C++](1679-Max-Number-of-K-Sum-Pairs/cpp-1679/) | | |
+| 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [solution](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/solution/) | [C++](1680-Concatenation-of-Consecutive-Binary-Numbers/cpp-1680/) | | |
+| 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [无] | [C++](1681-Minimum-Incompatibility/cpp-1681/) | | |
+| 1682 | [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/) | [无] | [C++](1682-Longest-Palindromic-Subsequence-II/cpp-1682/) | | |
+| 1683 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [无] | [C++](1684-Count-the-Number-of-Consistent-Strings/cpp-1684/) | | |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [无] | [C++](1685-Sum-of-Absolute-Differences-in-a-Sorted-Array/cpp-1685/) | | |
+| | | | | | |
+| 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [C++](1688-Count-of-Matches-in-Tournament/cpp-1688/) | | | |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [solution](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/solution/) | [C++](1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers/cpp-1689/) | | |
+| 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [solution](https://leetcode.com/problems/stone-game-vii/solution/)<br/>[缺：记忆化搜索；DP 空间优化] | [C++](1690-Stone-Game-VII/cpp-1690/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
