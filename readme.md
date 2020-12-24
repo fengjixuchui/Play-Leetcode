@@ -154,7 +154,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [无] | [C++](0107-Binary-Tree-Level-Order-Traversal-II/cpp-0107/) | | |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [无] | [C++](0108-Convert-Sorted-Array-to-Binary-Search-Tree/cpp-0108/) | | |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [solution](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/solution/) | [C++](0109-Convert-Sorted-List-to-Binary-Search-Tree/cpp-0109/) | | |
-| | | | | | |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [solution](https://leetcode.com/problems/balanced-binary-tree/solution/) | [C++](0110-Balanced-Binary-Tree/cpp-0110/) | | |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/solution/) | [C++](0111-Minimum-Depth-of-Binary-Tree/cpp-0111/) | | |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [solution](https://leetcode.com/problems/path-sum/solution/) | [C++](0112-Path-Sum/cpp-0112/) | [Java](0112-Path-Sum/cpp-0112/src/) | |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [无] | [C++](0113-Path-Sum-II/cpp-0113/) | | |
@@ -317,6 +317,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [solution](https://leetcode.com/problems/odd-even-linked-list/solution/) | [C++](0328-Odd-Even-Linked-List/cpp-0328/) | | |
 | | | | | | |
+| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [solution](https://leetcode.com/problems/increasing-triplet-subsequence/solution/) | [C++](0334-Increasing-Triplet-Subsequence/cpp-0334/) | | |
+| | | | | | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [无] | [C++](0337-House-Robber-III/cpp-0337/) | | |
 | | | | | | |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/solution/) | [C++](0340-Longest-Substring-with-At-Most-K-Distinct-Characters/cpp-0340/) | | |
@@ -444,6 +446,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | [C++](0542-01-Matrix/cpp-0542/) | | |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [solution](https://leetcode.com/problems/diameter-of-binary-tree/solution/) | [C++](0543-Diameter-of-Binary-Tree/cpp-0543/) | | |
 | | | | | | |
+| 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [solution](https://leetcode.com/problems/next-greater-element-iii/solution/)<br/>[缺：底层实现] | [C++](0556-Next-Greater-Element-III/cpp-0556/) | | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [solution](https://leetcode.com/problems/reverse-words-in-a-string-iii/solution/) | [C++](0557-Reverse-Words-in-a-String-III/cpp-0557/) | | |
 | | | | | | |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [solution](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/solution/) | [C++](0559-Maximum-Depth-of-N-ary-Tree/cpp-0559/) | | |
@@ -1258,6 +1261,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [solution](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/solution/) | [C++](1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers/cpp-1689/) | | |
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [solution](https://leetcode.com/problems/stone-game-vii/solution/)<br/>[缺：记忆化搜索；DP 空间优化] | [C++](1690-Stone-Game-VII/cpp-1690/) | | |
 | 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [无] | [C++](1691-Maximum-Height-by-Stacking-Cuboids/cpp-1691/) | | |
+| 1692 | [Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/) | [无] | [C++](1692-Count-Ways-to-Distribute-Candies/cpp-1692/) | | |
+| 1693 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [无] | [C++](1694-Reformat-Phone-Number/cpp-1694/) | | |
+| 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [无] | [C++](1695-Maximum-Erasure-Value/cpp-1695/) | | |
+| 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [无] | [C++](1696-Jump-Game-VI/cpp-1696/) | | |
+| 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [无] | [C++](1697-Checking-Existence-of-Edge-Length-Limited-Paths/cpp-1697/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
