@@ -367,6 +367,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [无] | [C++](0001-0500/0394-Decode-String/cpp-0394/) | | |
 | | | | | | |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0001-0500/0398-Random-Pick-Index/cpp-0398/) | | |
+| 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [solution](https://leetcode.com/problems/evaluate-division/solution/)<br/>[缺：UF] | [C++](0001-0500/0399-Evaluate-Division/cpp-0399/) | | |
 | | | | | | |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [无] | [C++](0001-0500/0401-Binary-Watch/cpp-0401/) | | |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [solution](https://leetcode.com/problems/remove-k-digits/solution/) [题解](https://leetcode-cn.com/problems/remove-k-digits/solution/yi-diao-kwei-shu-zi-by-leetcode/) | [C++](0001-0500/0402-Remove-K-Digits/cpp-0402/) | | |
@@ -450,6 +451,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [solution](https://leetcode.com/problems/reverse-string-ii/solution/) | [C++](0501-1000/0541-Reverse-String-II/cpp-0541/) | | |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | [C++](0501-1000/0542-01-Matrix/cpp-0542/) | | |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [solution](https://leetcode.com/problems/diameter-of-binary-tree/solution/) | [C++](0501-1000/0543-Diameter-of-Binary-Tree/cpp-0543/) | | |
+| | | | | | |
+| 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [solution](https://leetcode.com/problems/number-of-provinces/solution/) | [C++](0501-1000/0547-Number-of-Provinces/cpp-0547/) | | |
 | | | | | | |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [solution](https://leetcode.com/problems/next-greater-element-iii/solution/)<br/>[缺：底层实现] | [C++](0501-1000/0556-Next-Greater-Element-III/cpp-0556/) | | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [solution](https://leetcode.com/problems/reverse-words-in-a-string-iii/solution/) | [C++](0501-1000/0557-Reverse-Words-in-a-String-III/cpp-0557/) | | |
@@ -1149,7 +1152,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [无] | [C++](1001-1500/1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/cpp-1498/) | | |
 | 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [无] | [C++](1001-1500/1499-Max-Value-of-Equation/cpp-1499/) | | |
 | | | | | | |
+| 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [solution](https://leetcode.com/problems/find-root-of-n-ary-tree/solution/) | [C++](1501-2000/1506-Find-Root-of-N-Ary-Tree/cpp-1506/) | | |
+| | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
+| | | | | | |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
 | | | | | | |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1501-2000/1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
 | | | | | | |
@@ -1291,6 +1298,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [无] | [C++](1711-Count-Good-Meals/cpp-1711/) | | |
 | 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [solution](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/solution/) | [C++](1501-2000/1712-Ways-to-Split-Array-Into-Three-Subarrays/cpp-1712/) | | |
 | 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | [无] | [C++](1501-2000/1713-Minimum-Operations-to-Make-a-Subsequence/cpp-1713/) | | |
+| 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | [无] | [C++](1501-2000/1714-Sum-Of-Special-Evenly-Spaced-Elements-In-Array/cpp-1714/) | | |
+| 1715 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [无] | [C++](1501-2000/1716-Calculate-Money-in-Leetcode-Bank/cpp-1716/) | | |
+| | | | | | |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [无] | [C++](1501-2000/1720-Decode-XORed-Array/cpp-1720/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
