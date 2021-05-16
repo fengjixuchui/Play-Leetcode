@@ -113,7 +113,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [无]<br/>[缺：数学解] | [C++](0001-0500/0062-Unique-Paths/cpp-0062/) | | |
 | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [solution](https://leetcode.com/problems/unique-paths-ii/solution/) | [C++](0001-0500/0063-Unique-Paths-II/cpp-0063/) | | |
 | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [C++](0001-0500/0064-Minimum-Path-Sum/cpp-0064/) | [Java](0001-0500/0064-Minimum-Path-Sum/java-0064/src/) | [Python](0001-0500/0064-Minimum-Path-Sum/py-0064/) |
-| | | | | | |
+| 065 | [Valid Number](https://leetcode.com/problems/valid-number/) | [solution](https://leetcode.com/problems/valid-number/solution/) | [C++](0001-0500/0065-Valid-Number/cpp-0065/) | | |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [无] | [C++](0001-0500/0066-Plus-One/cpp-0066/) | | |
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [无] | [C++](0001-0500/0067-Add-Binary/cpp-0067/) | | |
 | | | | | | |
@@ -162,7 +162,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/solution/) | [C++](0001-0500/0111-Minimum-Depth-of-Binary-Tree/cpp-0111/) | | |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [solution](https://leetcode.com/problems/path-sum/solution/) | [C++](0001-0500/0112-Path-Sum/cpp-0112/) | [Java](0001-0500/0112-Path-Sum/cpp-0112/src/) | |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [无] | [C++](0001-0500/0113-Path-Sum-II/cpp-0113/) | | |
-| | | | | | |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [solution](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solution/) | [C++](0001-0500/0114-Flatten-Binary-Tree-to-Linked-List/cpp-0114/) | | |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [无] | [C++](0001-0500/0115/Distinct-Subsequences/cpp-0115/) | [Java](0001-0500/0115/Distinct-Subsequences/java-0115/) | |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [无] | [C++](0001-0500/0116-Populating-Next-Right-Pointers-in-Each-Node/cpp-0116/) | | |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [无] | [C++](0001-0500/0117-Populating-Next-Right-Pointers-in-Each-Node-II/cpp-0117/) | | |
@@ -415,6 +415,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [无] | [C++](0001-0500/0416-Partition-Equal-Subset-Sum/cpp-0416/) | [Java](0001-0500/0416-Partition-Equal-Subset-Sum/java-0416/src/) | |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [无] | | [Java](0001-0500/0417-Pacific-Atlantic-Water-Flow/java-0417/src/) | |
+| | | | | | |
+| 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [solution](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/solution/) | [C++](0001-0500/0421-Maximum-XOR-of-Two-Numbers-in-an-Array/cpp-0421/) | | |
 | | | | | | |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [solution](https://leetcode.com/problems/reconstruct-original-digits-from-english/solution/) | [C++](0001-0500/0423-Reconstruct-Original-Digits-from-English/cpp-0423/) | | |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [无] | [C++](0001-0500/0424-Longest-Repeating-Character-Replacement/cpp-0424/) | | |
@@ -1516,6 +1518,12 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [无] | [C++](1501-2000/1849-Splitting-a-String-Into-Descending-Consecutive-Values/cpp-1849/) | | |
 | 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [无] | [C++](1501-2000/1850-Minimum-Adjacent-Swaps-to-Reach-the-Kth-Smallest-Number/cpp-1850/) | | |
 | 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [无] | [C++](1501-2000/1851-Minimum-Interval-to-Include-Each-Query/cpp=1851/) | | |
+| 1852 | [Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [C++](1501-2000/1852-Distinct-Numbers-in-Each-Subarray/cpp-1852/) | | | |
+| | | | | | |
+| 1858 | [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/) | [无] | [C++](1501-2000/1858-Longest-Word-With-All-Prefixes/cpp-1858/) | | |
+| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [无] | [C++](1501-2000/1859-Sorting-the-Sentence/cpp-1859/) | | |
+| 1860 | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/) | [无] | [C++](1501-2000/1860-Incremental-Memory-Leak/cpp-1860/) | | |
+| 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [无] | [C++](1501-2000/1861-Rotating-the-Box/cpp-1861/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
