@@ -208,7 +208,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/solution/) | [C++](0001-0500/0159-Longest-Substring-with-At-Most-Two-Distinct-Characters/cpp-0159/) | | |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [solution](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/) | [C++](0001-0500/0160-Intersection-of-Two-Linked-Lists/cpp-0160/) | | |
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [solution](https://leetcode.com/problems/one-edit-distance/solution/) | [C++](0001-0500/0161-One-Edit-Distance/cpp-0161/) | | |
-| | | | | | |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [solution](https://leetcode.com/problems/find-peak-element/solution/) | [C++](0001-0500/0162-Find-Peak-Element/cpp-0162/) | | |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [solution](https://leetcode.com/problems/missing-ranges/solution/) | [C++](0001-0500/0163-Missing-Ranges/cpp-0163/) | | |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [solution](https://leetcode.com/problems/maximum-gap/solution/)<br/>[缺：桶排序] | [C++](0001-0500/0164-Maximum-Gap/cpp-0164/) | | |
 | | | | | | |
@@ -465,6 +465,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [无]<br/>[缺：双数据结构] | [C++](0001-0500/0480-Sliding-Window-Median/cpp-0480/) | | |
 | | | | | | |
+| 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [无] | [C++](0001-0500/0483-Smallest-Good-Base/cpp-0483/) | | |
+| | | | | | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [无] | [C++](0001-0500/0485-Max-Consecutive-Ones/cpp-0485/) | | |
 | | | | | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0001-0500/0490-The-Maze/cpp-0490/) | | |
@@ -528,6 +530,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) |[solution](https://leetcode.com/problems/squirrel-simulation/solution/) | [C++](0501-1000/0573-Squirrel-Simulation/cpp-0573/) | | |
 | | | | | | |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [solution](https://leetcode.com/problems/distribute-candies/solution/) | [C++](0501-1000/0575-Distribute-Candies/cpp-0575/) | | |
+| 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [solution](https://leetcode.com/problems/out-of-boundary-paths/solution/) | [C++](0501-1000/0576-Out-of-Boundary-Paths/cpp-0576/) | | |
 | | | | | | |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [solution](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/)<br/>[缺：Stack] | [C++](0501-1000/0581-Shortest-Unsorted-Continuous-Subarray/cpp-0581/) | | |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) | [solution](https://leetcode.com/problems/kill-process/solution/) | [C++](0501-1000/0582-Kill-Process/cpp-0582/) | | |
@@ -554,7 +557,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [solution](https://leetcode.com/problems/add-one-row-to-tree/solution/) | [C++](0501-1000/0623-Add-One-Row-to-Tree/cpp-0623/) | | |
 | | | | | | |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [solution](https://leetcode.com/problems/maximum-product-of-three-numbers/solution/) | [C++](0501-1000/0628-Maximum-Product-of-Three-Numbers/cpp-0628/) | | |
-| | | | | | |
+| 629 | [K-Inverse-Pairs-Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [solution](https://leetcode.com/problems/k-inverse-pairs-array/solution/)<br/>[缺：其他 dp 优化思路] | [C++](0501-1000/0629-K-Inverse-Pairs-Array/cpp-0629/) | | |
 | 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [solution](https://leetcode.com/problems/course-schedule-iii/solution/) | [C++](0501-1000/0630-Course-Schedule-III/cpp-0630/) | | |
 | | | | | | |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [solution](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/solution/) | [C++](0501-1000/0632-Smallest-Range-Covering-Elements-from-K-Lists/cpp-0632/) | | |
@@ -915,6 +918,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [无] | [C++](1001-1500/1052-Grumpy-Bookstore-Owner/cpp-1052/) | | |
 | | | | | | |
+| 1059 | [All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) | [solution](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/solution/) | [C++](1001-1500/1059-All-Paths-from-Source-Lead-to-Destination/cpp-1059/) | | |
+| | | | | | |
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | [无] | [C++](1001-1500/1062-Longest-Repeating-Substring/cpp-1062/) | | |
 | | | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [无] | [C++](1001-1500/1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows/cpp-1072/) | | |
@@ -1267,6 +1272,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1501-2000/1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
 | | | | | | |
+| 1570 | [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [solution](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [C++](1501-2000/1570-Dot-Product-of-Two-Sparse-Vectors/cpp-1570/) | | |
+| 1571 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [无] | [C++](1501-2000/1576-Replace-All-Question-Marks-to-Avoid-Consecutive-Repeating-Characters/cpp-1576/) | | |
 | 1577 | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [无] | [C++](1501-2000/1577-Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers/cpp-1577/) | | |
 | 1578 | [Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [无] | [C++](1501-2000/1578-Minimum-Deletion-Cost-to-Avoid-Repeating-Letters/cpp-1578/) | | |
@@ -1495,7 +1503,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | [无] | [C++](1501-2000/1801-Number-of-Orders-in-the-Backlog/cpp-1801/) | | |
 | 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [无] | [C++](1501-2000/1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array/cpp-1802/) | | |
 | 1803 | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [无] | [C++](1501-2000/1803-Count-Pairs-With-XOR-in-a-Range/cpp-1803/) | | |
-| | | | | | |
+| 1804 | [Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/) | [无] | [C++](1501-2000/Implement-Trie-II/cpp-1804/) | | |
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [无] | [C++](1501-2000/1805-Number-of-Different-Integers-in-a-String/cpp-1805/) | | |
 | 1806 | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [无]<br/>[缺：数学方法] | [C++](1501-2000/1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation/cpp-1806/) | | |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [无] | [C++](1501-2000/1807-Evaluate-the-Bracket-Pairs-of-a-String/cpp-1807/) | | |
@@ -1593,38 +1601,63 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [无] | [C++](1501-2000/1899-Merge-Triplets-to-Form-Target-Triplet/cpp-1899/) | | |
 | 1900 | [The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | [无] | [C++](1501-2000/1900-The-Earliest-and-Latest-Rounds-Where-Players-Compete/cpp-1900/) | | |
 | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [无] | [C++](1501-2000/1901-Find-a-Peak-Element-II/cpp-1901/) | | |
+| 1902 | [Depth of BST Given Insertion Order](https://leetcode.com/problems/depth-of-bst-given-insertion-order/) | [无] | [C++](1501-2000/1902-Depth-of-BST-Given-Insertion-Order/cpp-1902/) | | |
+| 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [无] | [C++](1501-2000/1903-Largest-Odd-Number-in-String/cpp-1903/) | | |
+| 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [无] | [C++](1501-2000/1904-The-Number-of-Full-Rounds-You-Have-Played/cpp-1904/) | | |
+| 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [无] | [C++](1501-2000/1905-Count-Sub-Islands/cpp-1905/) | | |
+| 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [无]<br/>[缺：二分] | [C++](1501-2000/1906-Minimum-Absolute-Difference-Queries/cpp-1906/) | | |
+| 1907 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1908 | [Game of Nim](https://leetcode.com/problems/game-of-nim/) | [无]<br/>[缺：dp] | [C++](1501-2000/1908-Game-of-Nim/cpp-1908/) | | |
+| 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [无] | [C++](1501-2000/1909-Remove-One-Element-to-Make-the-Array-Strictly-Increasing/cpp-1909/) | | |
+| 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [无] | [C++](1501-2000/1910-Remove-All-Occurrences-of-a-Substring/cpp-1910/) | | |
+| 1911 | [Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | [无]<br/>[缺：dp] | [C++](1501-2000/1911-Maximum-Alternating-Subsequence-Sum/cpp-1911/) | | |
+| 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | [无] | [C++](1501-2000/1912-Design-Movie-Rental-System/cpp-1912/) | | |
+| 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [无] | [C++](1501-2000/1913-Maximum-Product-Difference-Between-Two-Pairs/cpp-1913/) | | |
+| 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [无] | [C++](1501-2000/1914-Cyclically-Rotating-a-Grid/cpp-1914/) | | |
+| 1915 | [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) | [无] | [C++](1501-2000/1915-Number-of-Wonderful-Substrings/cpp-1915/) | | |
+| 1916 | [Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/) | [无] | [C++](1501-2000/1916-Count-Ways-to-Build-Rooms-in-an-Ant-Colony/cpp-1916/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
 
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
-| LCP01 | [猜数字](https://leetcode-cn.com/problems/guess-numbers/) | [无] | [C++](LCP/LCP01-guess-numbers/cpp-LCP01/) | | |
-| LCP02 | [分式化简](https://leetcode-cn.com/problems/deep-dark-fraction/) | [无] | [C++](LCP/LCP02-deep-dark-fraction/cpp-LCP02/) | | |
-| LCP03 | [机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/) | [无] | [C++](LCP/LCP03-programmable-robot/cpp-LCP03/) | | |
-| LCP04 | [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/) | [无] | [C++](LCP/LCP04-broken-board-dominoes/cpp-LCP04/) | | |
-| LCP05 | [发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus/) | [无] | [C++](LCP/LCP05-coin-bonus/cpp-LCP05/) | | |
-| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [题解](https://leetcode-cn.com/problems/na-ying-bi/solution/na-ying-bi-by-leetcode-solution/) | [C++](LCP/LCP06-na-ying-bi/cpp-LCP06/) |
-| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [题解](https://leetcode-cn.com/problems/chuan-di-xin-xi/solution/chuan-di-xin-xi-by-leetcode-solution/) | [C++](LCP/LCP07-chuan-di-xin-xi/cpp-LCP07/) | | |
-| LCP08 | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [题解](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/solution/ju-qing-hong-fa-shi-jian-by-leetcode-solution/) | [C++](LCP/LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | | |
-| LCP09 | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [题解](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/solution/zui-xiao-tiao-yue-ci-shu-by-leetcode-solution/) | [C++](LCP/LCP09-zui-xiao-tiao-yue-ci-shu/cpp-LCP09/) | | |
-| LCP10 | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/) | [题解](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/solution/dfs-si-lu-dai-ma-he-zheng-ming-by-leetcode-solutio/) | [C++](LCP/LCP10-er-cha-shu-ren-wu-diao-du/cpp-LCP10/) | | |
-| LCP11 | [期望个数统计](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [题解](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/solution/qi-wang-ge-shu-tong-ji-qi-wang-ji-suan-yu-zheng-mi/) | [C++](LCP/LCP11-qi-wang-ge-shu-tong-ji/cpp-LCP11/) | | |
-| LCP12 | [小张刷题计划](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [题解](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/solution/xiao-zhang-shua-ti-ji-hua-er-fen-cha-zhao-by-leetc/) | [C++](LCP/LCP12-xiao-zhang-shua-ti-ji-hua/cpp-LCP12/) | | |
-| LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | [题解](https://leetcode-cn.com/problems/xun-bao/solution/xun-bao-bfs-dp-by-leetcode-solution/) | [C++](LCP/LCP13-xun-bao/cpp-LCP13/) | | |
-| LCP14 | [切分数组](https://leetcode-cn.com/problems/qie-fen-shu-zu/) | [题解](https://leetcode-cn.com/problems/qie-fen-shu-zu/solution/qie-fen-shu-zu-zhi-shu-shai-dp-by-leetcode-solutio/) | [C++](LCP/LCP14-qie-fen-shu-zu/cpp-LCP14/) | | |
-| LCP15 | [游乐园的迷宫](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/solution/you-le-yuan-de-mi-gong-tan-xin-si-lu-by-leetcode-s/) | [C++](LCP/LCP15-you-le-yuan-de-mi-gong/cpp-LCP15/) | | |
-| LCP16 | [游乐园的游览计划](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/solution/you-le-yuan-de-you-lan-ji-hua-tu-lun-jie-xi-by-l-2/) | [C++](LCP/LCP16-you-le-yuan-de-you-lan-ji-hua/cpp-LCP16/) | | |
-| LCP17 | [速算机器人](https://leetcode-cn.com/problems/nGK0Fy/) | [无] | [C++](LCP/LCP17/cpp-LCP17/) | | |
-| LCP18 | [早餐组合](https://leetcode-cn.com/problems/2vYnGI/) | [无] | [C++](LCP/LCP18/cpp-LCP18/) | | |
-| LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | [题解](https://leetcode-cn.com/problems/UlBDOe/solution/qiu-xie-shou-cang-ji-by-leetcode-solution/) | [C++](LCP/LCP19/cpp-LCP19/) | | |
-| LCP20 | [快速公交](https://leetcode-cn.com/problems/meChtZ/) | [无] | [C++](LCP/LCP20/cpp-LCP20/) | | |
-| LCP21 | [追逐游戏](https://leetcode-cn.com/problems/Za25hA/) | [无] | [C++](LCP/LCP21/cpp-LCP21/) | | |
-| LCP22 | [黑白方格画](https://leetcode-cn.com/problems/ccw6C7/) | [无] | [C++](LCP/LCP22/cpp-LCP22/) | | |
-| LCP23 | [魔术排列](https://leetcode-cn.com/problems/er94lq/) | [无] | [C++](LCP/LCP23/cpp-LCP23/) | | |
-| LCP24 | [数字游戏](https://leetcode-cn.com/problems/5TxKeK/) | [无] | [C++](LCP/LCP24/cpp-LCP24/) | | |
-| LCP25 | [古董键盘](https://leetcode-cn.com/problems/Uh984O/) | [无] | [C++](LCP/LCP25/cpp-LCP25/) | | |
+| LCP01 | [猜数字](https://leetcode-cn.com/problems/guess-numbers/) | [无] | [C++](LC/LCP01/cpp-LCP01/) | | |
+| LCP02 | [分式化简](https://leetcode-cn.com/problems/deep-dark-fraction/) | [无] | [C++](LC/LCP02/cpp-LCP02/) | | |
+| LCP03 | [机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/) | [无] | [C++](LC/LCP03/cpp-LCP03/) | | |
+| LCP04 | [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/) | [无] | [C++](LC/LCP04/cpp-LCP04/) | | |
+| LCP05 | [发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus/) | [无] | [C++](LC/LCP05/cpp-LCP05/) | | |
+| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [题解](https://leetcode-cn.com/problems/na-ying-bi/solution/na-ying-bi-by-leetcode-solution/) | [C++](LC/LCP06/cpp-LCP06/) |
+| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [题解](https://leetcode-cn.com/problems/chuan-di-xin-xi/solution/chuan-di-xin-xi-by-leetcode-solution/) | [C++](LC/LCP07/cpp-LCP07/) | | |
+| LCP08 | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [题解](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/solution/ju-qing-hong-fa-shi-jian-by-leetcode-solution/) | [C++](LC/LCP08/cpp-LCP08/) | | |
+| LCP09 | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [题解](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/solution/zui-xiao-tiao-yue-ci-shu-by-leetcode-solution/) | [C++](LC/LCP09/cpp-LCP09/) | | |
+| LCP10 | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/) | [题解](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/solution/dfs-si-lu-dai-ma-he-zheng-ming-by-leetcode-solutio/) | [C++](LC/LCP10/cpp-LCP10/) | | |
+| LCP11 | [期望个数统计](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [题解](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/solution/qi-wang-ge-shu-tong-ji-qi-wang-ji-suan-yu-zheng-mi/) | [C++](LC/LCP11/cpp-LCP11/) | | |
+| LCP12 | [小张刷题计划](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [题解](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/solution/xiao-zhang-shua-ti-ji-hua-er-fen-cha-zhao-by-leetc/) | [C++](LC/LCP12/cpp-LCP12/) | | |
+| LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | [题解](https://leetcode-cn.com/problems/xun-bao/solution/xun-bao-bfs-dp-by-leetcode-solution/) | [C++](LC/LCP13/cpp-LCP13/) | | |
+| LCP14 | [切分数组](https://leetcode-cn.com/problems/qie-fen-shu-zu/) | [题解](https://leetcode-cn.com/problems/qie-fen-shu-zu/solution/qie-fen-shu-zu-zhi-shu-shai-dp-by-leetcode-solutio/) | [C++](LC/LCP14/cpp-LCP14/) | | |
+| LCP15 | [游乐园的迷宫](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/solution/you-le-yuan-de-mi-gong-tan-xin-si-lu-by-leetcode-s/) | [C++](LC/LCP15/cpp-LCP15/) | | |
+| LCP16 | [游乐园的游览计划](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/solution/you-le-yuan-de-you-lan-ji-hua-tu-lun-jie-xi-by-l-2/) | [C++](LC/LCP16/cpp-LCP16/) | | |
+| LCP17 | [速算机器人](https://leetcode-cn.com/problems/nGK0Fy/) | [无] | [C++](LC/LCP17/cpp-LCP17/) | | |
+| LCP18 | [早餐组合](https://leetcode-cn.com/problems/2vYnGI/) | [无] | [C++](LC/LCP18/cpp-LCP18/) | | |
+| LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | [题解](https://leetcode-cn.com/problems/UlBDOe/solution/qiu-xie-shou-cang-ji-by-leetcode-solution/) | [C++](LC/LCP19/cpp-LCP19/) | | |
+| LCP20 | [快速公交](https://leetcode-cn.com/problems/meChtZ/) | [无] | [C++](LC/LCP20/cpp-LCP20/) | | |
+| LCP21 | [追逐游戏](https://leetcode-cn.com/problems/Za25hA/) | [无] | [C++](LC/LCP21/cpp-LCP21/) | | |
+| LCP22 | [黑白方格画](https://leetcode-cn.com/problems/ccw6C7/) | [无] | [C++](LC/LCP22/cpp-LCP22/) | | |
+| LCP23 | [魔术排列](https://leetcode-cn.com/problems/er94lq/) | [无] | [C++](LC/LCP23/cpp-LCP23/) | | |
+| LCP24 | [数字游戏](https://leetcode-cn.com/problems/5TxKeK/) | [无] | [C++](LC/LCP24/cpp-LCP24/) | | |
+| LCP25 | [古董键盘](https://leetcode-cn.com/problems/Uh984O/) | [无] | [C++](LC/LCP25/cpp-LCP25/) | | |
 | | | | | | |
-| LCP28 | [采购方案](https://leetcode-cn.com/problems/4xy4Wx/) | [无] | [C++](LCP/LCP28/cpp-LCP28/) | | |
-| LCP29 | [乐团站位](https://leetcode-cn.com/problems/SNJvJP/) | [无] | [C++](LCP/LCP29/cpp-LCP29/) | | |
+| LCP28 | [采购方案](https://leetcode-cn.com/problems/4xy4Wx/) | [无] | [C++](LC/LCP28/cpp-LCP28/) | | |
+| LCP29 | [乐团站位](https://leetcode-cn.com/problems/SNJvJP/) | [无] | [C++](LC/LCP29/cpp-LCP29/) | | |
 | | | | | | |
+
+## 其他
+
+| ID | Problem | Official<br/>Solution | C++ | Java | Python |
+| --- | --- | :---: | :---: | :---: | :---: |
+| LCS01 | [下载插件](https://leetcode-cn.com/problems/Ju9Xwi/) | [无] | [C++](LC/LCS01/cpp-LCS01/) | | |
+| LCS02 | [完成一半题目](https://leetcode-cn.com/problems/WqXACV/) | [无] | [C++](LC/LCS02/cpp-LCS02/) | | |
+| LCS03 | [主题空间](https://leetcode-cn.com/problems/YesdPw/) | [无] | [C++](LC/LCS03/cpp-LCS03/) | | |
+| | | | | | |
+
